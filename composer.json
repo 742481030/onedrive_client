@@ -1,0 +1,15 @@
+{
+    "name": "jane/onedrive-client",
+    "authors": [
+        {
+            "name": "742481030",
+            "email": "742481030@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jane\\": "src/"
+        }
+    }
+}
